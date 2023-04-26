@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+   "hostRules": [
+    {
+        "hostType": "nuget",
+        "hostName": "nuget.org",
+        "matchHost": "nuget.org",
+        "username": "root",
+        "password": "p4$$w0rd"
+      }
+  ]
+}
